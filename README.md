@@ -9,6 +9,7 @@ Resources:
  - [Unix](https://datasciencepractice.study/unix-systems.html)
  - [Working with unix](https://seankross.com/the-unix-workbench/working-with-unix.html)
  - [Explain shell command](https://explainshell.com/)
+ - [AWS S3 CLI commands](https://www.thegeekstuff.com/2019/04/aws-s3-cli-examples/)
     
 Advanced:
  - [O'Reilly - Data Science at the Command line](https://www.oreilly.com/library/view/data-science-at/9781492087908/)
